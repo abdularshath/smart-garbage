@@ -34,6 +34,10 @@ Power Supply – for system operation
 
 Garbage Bin – physical container for waste
 
+# circuit diagram
+![image](https://github.com/user-attachments/assets/69d4ecc2-f93d-49cc-88d6-17224d306e10)
+
+
 # How It Works
 
 Garbage Level Monitoring: The ultrasonic sensor continuously checks the garbage level inside the bin.
@@ -69,6 +73,10 @@ AI-based Waste Sorting: Automating segregation of recyclable and non-recyclable 
 Solar Power Integration: To make the system more sustainable.
 
 GPS-based Collection Monitoring: Optimizing waste collection routes.
+
+# output
+![image](https://github.com/user-attachments/assets/fb87e652-a07e-4f4d-b674-b4aadc51a387)
+
 
 # Contributors
 
