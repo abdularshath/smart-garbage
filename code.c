@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3Ce6brFfH"
 #define BLYNK_TEMPLATE_NAME "smart garbage"
-#define BLYNK_AUTH_TOKEN "HND8CwSqbxGX0HqyMH0jxfveeKZ4JJJ5"
+#define BLYNK_AUTH_TOKEN "entertokenauth"
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
 #include <WiFiClient.h>
