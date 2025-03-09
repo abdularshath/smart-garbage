@@ -6,8 +6,8 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "vivoV235G";
-char pass[] = "70867086";
+char ssid[] = "id";
+char pass[] = "pass";
 BlynkTimer timer;
 #define echoPin 32
 #define trigPin 33
